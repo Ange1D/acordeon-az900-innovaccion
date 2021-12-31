@@ -236,6 +236,11 @@ ______
 - [Kahoot G2](https://kahoot.it/challenge/00743933)
 - [Kahoot G3](https://kahoot.it/challenge/001024275)
 - [Kahoot G4](https://kahoot.it/challenge/001248593)
+- [Kahoot G5](https://kahoot.it/challenge/008200452)
+- [Kahoot G6](https://kahoot.it/challenge/001726604)
+- [Kahoot G7](https://kahoot.it/challenge/003448806)
+- [Kahoot G8](https://kahoot.it/challenge/002421291)
+
 - [Prueba de examen AZ-900](https://kahoot.it/challenge/003133738)
 - [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/009096107)
 
